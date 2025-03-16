@@ -1,0 +1,7 @@
+# UV
+.venv
+uv.lock
+
+# Local Python cache
+__pycache__
+**/__pycache__
