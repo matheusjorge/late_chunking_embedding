@@ -5,7 +5,7 @@ This is an implementation of a late chunking embedding, proposed in the paper [L
 ## Installation
 
 ```bash
-git clone https://github.com/matheusjorge/late-chunking.git
+git clone https://github.com/matheusjorge/late-chunking-embedding.git
 cd late-chunking
 pip install -e .
 ```
